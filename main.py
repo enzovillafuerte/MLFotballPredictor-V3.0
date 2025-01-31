@@ -124,9 +124,9 @@ fbref_urls = {
     'La Liga': 'https://fbref.com/en/comps/12/La-Liga-Stats',
     'Bundesliga': 'https://fbref.com/en/comps/20/Bundesliga-Stats',
     'Serie A': 'https://fbref.com/en/comps/11/Serie-A-Stats',
-    'Ligue 1': 'https://fbref.com/en/comps/13/Ligue-1-Stats',
-    'Eredivisie': 'https://fbref.com/en/comps/23/2023-2024/2023-2024-Eredivisie-Stats',
-    'Bundesliga_2': 'https://fbref.com/en/comps/33/2-Bundesliga-Stats'}#,
+    'Ligue 1': 'https://fbref.com/en/comps/13/Ligue-1-Stats'} #,
+    #'Eredivisie': 'https://fbref.com/en/comps/23/2023-2024/2023-2024-Eredivisie-Stats',
+    #'Bundesliga_2': 'https://fbref.com/en/comps/33/2-Bundesliga-Stats'}#,
     #'Jupiler': 'https://fbref.com/en/comps/37/Belgian-Pro-League-Stats', - Different Format
     #'Liga MX': 'https://fbref.com/en/comps/31/Liga-MX-Stats',
     #'Primeira Liga': 'https://fbref.com/en/comps/32/Primeira-Liga-Stats',
